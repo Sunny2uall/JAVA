@@ -3,7 +3,7 @@ class hello{
 		System.out.println("Hello World..!!!");
 		System.out.println("Welcome to JAVA Tutorial..!!");
 		System.out.println("Welcome to GIT Tutorial");
-		System.out.println("THIS IS GOING YO BE FUN..!!!");
+		System.out.println("This Is Going To Be Fun..!!!");
 		System.out.println("Welcome aboard...!!!!");
 	}
 }
